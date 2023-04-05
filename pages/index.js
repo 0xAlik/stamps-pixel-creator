@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>BITCOIN STAMPS CREATOR</title>
+        <title>STAMPS PIXEL CREATOR</title>
         <link rel="icon" href="/icon.jpg" />
       </Head>
 
       <main>
-        <h1>BITCOIN STAMPS CREATOR</h1>
+        <h1>STAMPS PIXEL CREATOR</h1>
         <Creator></Creator>
       </main>
 
